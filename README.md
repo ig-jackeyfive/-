@@ -1,3 +1,7 @@
+## 待办事项
+* html2canvas的阴影问题
+
+
 # test
 
 ## Project setup
