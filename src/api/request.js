@@ -25,7 +25,6 @@ service.interceptors.request.use(
 
 // response interceptor
 service.interceptors.response.use(
-
     response => {
         const headers = response.headers
             //console.log(headers['content-type'])  将打印的值，也将后台返回的相应头设置成相同的，我的就是'application/octet-stream;charset=UTF-8',然后返回response
